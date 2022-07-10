@@ -1,0 +1,38 @@
+form {
+    padding: 1rem;
+    border-radius: 1px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row wrap;
+}
+
+input {
+    padding: 2px 1px;
+    margin: 3px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #3CBC8D;
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+    width: 20%;
+}
+
+h3 {
+    padding: 2px 1px;
+    margin: 3px 0;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+    width: 10%;
+}
+
+span {
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+    width: 10%;
+}
